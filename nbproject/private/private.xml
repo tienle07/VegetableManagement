@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/product/ProductDAO.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/shopping/Cart.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/product/Product.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/AddCategoryController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/user/User.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/CheckoutController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/shopping/OrderDAO.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/assets/login.css</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/LoginController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/shopping/Order.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/AdminController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/UpdateProductController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/utility/Utility.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/AddProductController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/product/CategoryError.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/user/UserDAO.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/LogoutController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/MainController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/product/Category.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/user.jsp</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/DeleteProductController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/error.jsp</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/login.jsp</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/DeleteCartController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/SearchProductController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/viewCart.jsp</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/UpdateCartController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/product/ProductError.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/UserController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/AddToCartController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/addProduct.jsp</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/web/admin.jsp</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/controller/UpdateCategoryController.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/utils/DBUtils.java</file>
+            <file>file:/D:/Kì%205%20-%20FPT/SWP391/VegetableManagement/Assignment/src/java/shopping/OrderDetail.java</file>
+        </group>
+    </open-files>
+</project-private>
